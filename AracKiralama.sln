@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.35431.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AracKiralama", "AracKiralama\AracKiralama.csproj", "{5D90CE83-AC37-476F-92A9-68558150DD5A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AracKiralamaSetup", "..\..\..\Desktop\AracKiralamaSetup\AracKiralamaSetup.vdproj", "{58D66C07-94C2-40C7-845E-EF8688857C21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D90CE83-AC37-476F-92A9-68558150DD5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D90CE83-AC37-476F-92A9-68558150DD5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D90CE83-AC37-476F-92A9-68558150DD5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D90CE83-AC37-476F-92A9-68558150DD5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58D66C07-94C2-40C7-845E-EF8688857C21}.Debug|Any CPU.ActiveCfg = Debug
+		{58D66C07-94C2-40C7-845E-EF8688857C21}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD424253-0922-4096-B105-DF56F0A4DA0C}
+	EndGlobalSection
+EndGlobal
